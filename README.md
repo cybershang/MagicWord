@@ -1,0 +1,2 @@
+# MagicWord
+Fantasy prompt.
